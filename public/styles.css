@@ -1,0 +1,44 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid black;
+    height: 100vw;
+    background-image: url(https://i.guim.co.uk/img/media/d74fb48312da07d3419482b1a22f5eb1cb04e4f1/0_103_1532_919/master/1532.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=d8dc302f3f524c92950d5c8b5d493f0a);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+header{
+    display: flex;
+    margin: 100px;
+    border: 2px solid black;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+section{
+    display: flex;
+    margin: 100px;
+    border: 2px solid black;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+footer{
+    display: flex;
+    margin: 100px;
+    border: 2px solid black;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+div{
+    background-image: url(https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2021/08/12215335/DUDe.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
